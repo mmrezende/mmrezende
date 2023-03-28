@@ -7,7 +7,7 @@
 - 🎓 &nbsp; Studying **Computer Science(?)** at <a href="https://www.ufsm.br/">UFSM</a>.
 - 💼 &nbsp; Working as a **Desenvolvedor FullStack** on my own projects</a>.
 - 🌱 &nbsp; Learning more about **Compilers** and game development with **Unity** in my free time.
-- 🕹️ &nbsp; <a href="https://rust.facepunch.com/">Rust</a> addict and a Soulslike lover.
+- 🕹️ &nbsp; <a href="https://rust.facepunch.com/">*Rust*</a> addict and a Soulslike lover.
 
 <h3> :brazil: &nbsp;Sobre mim </h3>
 
@@ -15,7 +15,7 @@
 - 🎓 &nbsp; Cursando **Sistemas de Informação** na <a href="https://www.ufsm.br/">UFSM</a>.
 - 💼 &nbsp; Trabalhando como **Desenvolvedor FullStack** em projetos próprios</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **Compiladores** e desenvolvimento de jogos com **Unity** no tempo livre.
-- 🕹️ &nbsp; Viciado em <a href="https://rust.facepunch.com/">Rust</a> e um amante do gênero Soulslike.
+- 🕹️ &nbsp; Viciado em <a href="https://rust.facepunch.com/">*Rust*</a> e um amante do gênero Soulslike.
 
 <h3> :rocket: &nbsp;My Skills </h3>
 
@@ -78,7 +78,10 @@
 <br/>
 
 <a href="https://github.com/mmrezende">
-  ![mmrezende's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmrezende&show_icons=true&theme=dracula)
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=mmrezende&show_icons=true&theme=dracula&count_private=true"
+  />
 </a>
 
 <br/>
