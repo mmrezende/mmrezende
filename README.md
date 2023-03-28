@@ -8,7 +8,8 @@
 - 💼 &nbsp; Working as a **FullStack Developer** on my own projects</a>.
 - 🌱 &nbsp; Learning more about **Compilers** and game development with **Unity** in my free time.
 - 🕹️ &nbsp; <a href="https://rust.facepunch.com/">*Rust*</a> addict and a Soulslike lover.
-<details><summary><h2>:brazil: &nbsp;Sobre mim</h2></summary>
+
+<h2>:brazil: &nbsp;Sobre mim</h2>
 
 - 🤔 &nbsp; Tentando descobrir como se centraliza uma *div*.
 - 🎓 &nbsp; Cursando **Sistemas de Informação** na <a href="https://www.ufsm.br/">UFSM</a>.
@@ -17,13 +18,13 @@
 - 🕹️ &nbsp; Viciado em <a href="https://rust.facepunch.com/">*Rust*</a> e um amante do gênero Soulslike.
 </details>
 
-<h3> :earth_americas: &nbsp;Find me at </h3>
+<h2> :earth_americas: &nbsp;Find me at </h2>
 
 [![Linkedin: Mateus Rezende](https://img.shields.io/badge/-Mateus%20Rezende-blue?style=for-the-badge-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-rezende-344435198/)](https://www.linkedin.com/in/mateus-rezende-344435198/)
 [![Gmail Badge](https://img.shields.io/badge/-contato@mateusrezende.dev-006bed?style=for-the-badge-square&logo=Gmail&logoColor=white&link=mailto:contato@mateusrezende.dev)](mailto:contato@mateusrezende.dev)
 [![GitHub Mateus Rezende](https://img.shields.io/github/followers/mmrezende?label=follow&style=social)](https://github.com/mmrezende)
 
-<h3> :rocket: &nbsp;My Skills </h3>
+<h2> :rocket: &nbsp;My Skills </h2>
 
 **Languages**
 
@@ -48,19 +49,13 @@
   ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=for-the-badge&logo=react)
+  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
   ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
   ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-
-**Libraries**
-
-  ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
-  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-
-  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
 **Utilities**
 
