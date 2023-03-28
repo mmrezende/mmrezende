@@ -5,17 +5,23 @@
 
 - 🤔 &nbsp; Trying to figure out how to center a *div*.
 - 🎓 &nbsp; Studying **Computer Science(?)** at <a href="https://www.ufsm.br/">UFSM</a>.
-- 💼 &nbsp; Working as a **Desenvolvedor FullStack** on my own projects</a>.
+- 💼 &nbsp; Working as a **FullStack Developer** on my own projects</a>.
 - 🌱 &nbsp; Learning more about **Compilers** and game development with **Unity** in my free time.
 - 🕹️ &nbsp; <a href="https://rust.facepunch.com/">*Rust*</a> addict and a Soulslike lover.
 
-<h3> :brazil: &nbsp;Sobre mim </h3>
+<details><summary>:brazil: &nbsp;Sobre mim</summary>
+  - 🤔 &nbsp; Tentando descobrir como se centraliza uma *div*.
+  - 🎓 &nbsp; Cursando **Sistemas de Informação** na <a href="https://www.ufsm.br/">UFSM</a>.
+  - 💼 &nbsp; Trabalhando como **Desenvolvedor FullStack** em projetos próprios</a>.
+  - 🌱 &nbsp; Aprendendo mais sobre **Compiladores** e desenvolvimento de jogos com **Unity** no tempo livre.
+  - 🕹️ &nbsp; Viciado em <a href="https://rust.facepunch.com/">*Rust*</a> e um amante do gênero Soulslike.
+</details>
 
-- 🤔 &nbsp; Tentando descobrir como se centraliza uma *div*.
-- 🎓 &nbsp; Cursando **Sistemas de Informação** na <a href="https://www.ufsm.br/">UFSM</a>.
-- 💼 &nbsp; Trabalhando como **Desenvolvedor FullStack** em projetos próprios</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Compiladores** e desenvolvimento de jogos com **Unity** no tempo livre.
-- 🕹️ &nbsp; Viciado em <a href="https://rust.facepunch.com/">*Rust*</a> e um amante do gênero Soulslike.
+<h3> :earth_americas: &nbsp;Find me: </h3>    
+
+[![Linkedin: Mateus Rezende](https://img.shields.io/badge/-Mateus%20Rezende-blue?style=for-the-badge-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-rezende-344435198/)](https://www.linkedin.com/in/mateus-rezende-344435198/)
+[![Gmail Badge](https://img.shields.io/badge/-contato@mateusrezende.dev-006bed?style=for-the-badge-square&logo=Gmail&logoColor=white&link=mailto:contato@mateusrezende.dev)](mailto:contato@mateusrezende.dev)
+[![GitHub Mateus Rezende](https://img.shields.io/github/followers/mmrezende?label=follow&style=social)](https://github.com/mmrezende)
 
 <h3> :rocket: &nbsp;My Skills </h3>
 
@@ -83,11 +89,3 @@
     src="https://github-readme-stats.vercel.app/api?username=mmrezende&show_icons=true&theme=dracula&count_private=true"
   />
 </a>
-
-<br/>
-
-<h3> :earth_americas: &nbsp;Find me: </h3>    
-
-[![Linkedin: Mateus Rezende](https://img.shields.io/badge/-Mateus%20Rezende-blue?style=for-the-badge-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-rezende-344435198/)](https://www.linkedin.com/in/mateus-rezende-344435198/)
-[![Gmail Badge](https://img.shields.io/badge/-contato@mateusrezende.dev-006bed?style=for-the-badge-square&logo=Gmail&logoColor=white&link=mailto:contato@mateusrezende.dev)](mailto:contato@mateusrezende.dev)
-[![GitHub Mateus Rezende](https://img.shields.io/github/followers/mmrezende?label=follow&style=social)](https://github.com/mmrezende)
