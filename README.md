@@ -78,7 +78,7 @@
 <br/>
 
 <a href="https://github.com/mmrezende">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmrezende&theme=dracula&show_icons=true" />
+  ![mmrezende's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmrezende&show_icons=true&theme=dracula)
 </a>
 
 <br/>
