@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=mmrezende&color=006bed)
 
-<h3> :flag-us: &nbsp;About me </h3>
+<h3> :us: &nbsp;About me </h3>
 
 - 🤔 &nbsp; Trying to figure out how to center a *div*.
 - 🎓 &nbsp; Studying **Computer Science(?)** at <a href="https://www.ufsm.br/">UFSM</a>.
@@ -9,7 +9,7 @@
 - 🌱 &nbsp; Learning more about **Compilers** and game development with **Unity** in my free time.
 - 🕹️ &nbsp; <a href="https://rust.facepunch.com/">Rust</a> addict and a Soulslike lover.
 
-<h3> :flag-br: &nbsp;Sobre mim </h3>
+<h3> :brazil: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Tentando descobrir como se centraliza uma *div*.
 - 🎓 &nbsp; Cursando **Sistemas de Informação** na <a href="https://www.ufsm.br/">UFSM</a>.
