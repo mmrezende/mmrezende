@@ -9,7 +9,7 @@
 - 🌱 &nbsp; Learning more about **Compilers** and game development with **Unity** in my free time.
 - 🕹️ &nbsp; <a href="https://rust.facepunch.com/">*Rust*</a> addict and a Soulslike lover.
 
-<details><h3><summary>:brazil: &nbsp;Sobre mim</summary></h3>
+<details><summary><h3>:brazil: &nbsp;Sobre mim</h3></summary>
 
 - 🤔 &nbsp; Tentando descobrir como se centraliza uma *div*.
 - 🎓 &nbsp; Cursando **Sistemas de Informação** na <a href="https://www.ufsm.br/">UFSM</a>.
