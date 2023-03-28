@@ -1,15 +1,14 @@
 
 ![](https://komarev.com/ghpvc/?username=mmrezende&color=006bed)
 
-<h3> :us: &nbsp;About me </h3>
+<h2> :us: &nbsp;About me </h2>
 
 - 🤔 &nbsp; Trying to figure out how to center a *div*.
 - 🎓 &nbsp; Studying **Computer Science** at <a href="https://www.ufsm.br/">UFSM</a>.
 - 💼 &nbsp; Working as a **FullStack Developer** on my own projects</a>.
 - 🌱 &nbsp; Learning more about **Compilers** and game development with **Unity** in my free time.
 - 🕹️ &nbsp; <a href="https://rust.facepunch.com/">*Rust*</a> addict and a Soulslike lover.
-
-<details><summary><h3>:brazil: &nbsp;Sobre mim</h3></summary>
+<details><summary><h2>:brazil: &nbsp;Sobre mim</h2></summary>
 
 - 🤔 &nbsp; Tentando descobrir como se centraliza uma *div*.
 - 🎓 &nbsp; Cursando **Sistemas de Informação** na <a href="https://www.ufsm.br/">UFSM</a>.
@@ -18,7 +17,7 @@
 - 🕹️ &nbsp; Viciado em <a href="https://rust.facepunch.com/">*Rust*</a> e um amante do gênero Soulslike.
 </details>
 
-<h3> :earth_americas: &nbsp;Find me: </h3>    
+<h3> :earth_americas: &nbsp;Find me at </h3>
 
 [![Linkedin: Mateus Rezende](https://img.shields.io/badge/-Mateus%20Rezende-blue?style=for-the-badge-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-rezende-344435198/)](https://www.linkedin.com/in/mateus-rezende-344435198/)
 [![Gmail Badge](https://img.shields.io/badge/-contato@mateusrezende.dev-006bed?style=for-the-badge-square&logo=Gmail&logoColor=white&link=mailto:contato@mateusrezende.dev)](mailto:contato@mateusrezende.dev)
