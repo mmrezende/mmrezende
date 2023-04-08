@@ -22,7 +22,6 @@
 
 [![Linkedin: Mateus Rezende](https://img.shields.io/badge/-Mateus%20Rezende-blue?style=for-the-badge-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-rezende-344435198/)](https://www.linkedin.com/in/mateus-rezende-344435198/)
 [![Gmail Badge](https://img.shields.io/badge/-contact@mateusrezende.dev-006bed?style=for-the-badge-square&logo=Gmail&logoColor=white&link=mailto:contact@mateusrezende.dev)](mailto:contact@mateusrezende.dev)
-[![GitHub Mateus Rezende](https://img.shields.io/github/followers/mmrezende?label=GitHub&style=social)](https://github.com/mmrezende)
 
 <h2> :rocket: &nbsp;My Skills </h2>
 
