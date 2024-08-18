@@ -12,7 +12,7 @@
 <h2>:brazil: &nbsp;Sobre mim</h2>
 
 - 🤔 &nbsp; Tentando descobrir como se centraliza uma *div*.
-- 🎓 &nbsp; Cursando **Sistemas de Informação** na <a href="https://www.uninter.com/">UNINTER</a>.
+- 🎓 &nbsp; Cursando **Ciência da Computação** na <a href="https://www.uninter.com/">UNINTER</a>.
 - 💼 &nbsp; Trabalhando como **Desenvolvedor FullStack** no <a href="https://bb.com.br">Banco do Brasil</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **Java Beans** e desenvolvimento de jogos com **Unity** no tempo livre.
 - 🕹️ &nbsp; Viciado em <a href="https://rust.facepunch.com/">*Rust*</a> e um amante do gênero Soulslike.
