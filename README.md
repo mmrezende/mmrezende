@@ -4,17 +4,17 @@
 <h2> :us: &nbsp;About me </h2>
 
 - 🤔 &nbsp; Trying to figure out how to center a *div*.
-- 🎓 &nbsp; Studying **Computer Science** at <a href="https://www.ufsm.br/">UFSM</a>.
-- 💼 &nbsp; Working as a **FullStack Developer** on my own projects</a>.
-- 🌱 &nbsp; Learning more about **Compilers** and game development with **Unity** in my free time.
+- 🎓 &nbsp; Studying **Computer Science** at <a href="https://www.uninter.com/">UNINTER</a>.
+- 💼 &nbsp; Working as a **FullStack Developer** at <a href="https://bb.com.br">Banco do Brasil</a>.
+- 🌱 &nbsp; Learning more about **Java Beans** and game development with **Unity** in my free time.
 - 🕹️ &nbsp; <a href="https://rust.facepunch.com/">*Rust*</a> addict and a Soulslike lover.
 
 <h2>:brazil: &nbsp;Sobre mim</h2>
 
 - 🤔 &nbsp; Tentando descobrir como se centraliza uma *div*.
-- 🎓 &nbsp; Cursando **Sistemas de Informação** na <a href="https://www.ufsm.br/">UFSM</a>.
-- 💼 &nbsp; Trabalhando como **Desenvolvedor FullStack** em projetos próprios</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Compiladores** e desenvolvimento de jogos com **Unity** no tempo livre.
+- 🎓 &nbsp; Cursando **Sistemas de Informação** na <a href="https://www.uninter.com/">UNINTER</a>.
+- 💼 &nbsp; Trabalhando como **Desenvolvedor FullStack** no <a href="https://bb.com.br">Banco do Brasil</a>.
+- 🌱 &nbsp; Aprendendo mais sobre **Java Beans** e desenvolvimento de jogos com **Unity** no tempo livre.
 - 🕹️ &nbsp; Viciado em <a href="https://rust.facepunch.com/">*Rust*</a> e um amante do gênero Soulslike.
 </details>
 
